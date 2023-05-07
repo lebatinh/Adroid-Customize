@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">(Bài 9)TabLayout + ViewPager + Fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="home_fragment">Home fragment</string>
+    <string name="favourite_fragment">Favourite fragment</string>
+    <string name="my_page_fragment">My Page fragment</string>
+</resources>

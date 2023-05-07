@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="15sp"
+    tools:context=".MainActivity">
+
+    <com.example.customfontstextviewexample.custom_textview.ChunkFivePrintTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Name1"
+        android:textColor="@color/black"
+        android:textSize="30sp"
+        tools:ignore="HardcodedText" />
+
+    <com.example.customfontstextviewexample.custom_textview.LobsterTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Name1"
+        android:textColor="@color/black"
+        android:textSize="30sp" />
+
+    <com.example.customfontstextviewexample.custom_textview.MontserratAlternatesTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Name1"
+        android:textColor="@color/black"
+        android:textSize="30sp" />
+
+    <com.example.customfontstextviewexample.custom_textview.OpenSansExtraBoldItalicTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Name1"
+        android:textColor="@color/black"
+        android:textSize="30sp" />
+
+    <com.example.customfontstextviewexample.custom_textview.PacificoTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Name1"
+        android:textColor="@color/black"
+        android:textSize="30sp" />
+
+    <com.example.customfontstextviewexample.custom_textview.PlayfairDisplayTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Name1"
+        android:textColor="@color/black"
+        android:textSize="30sp" />
+
+    <com.example.customfontstextviewexample.custom_textview.QuicksandTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Name1"
+        android:textColor="@color/black"
+        android:textSize="30sp" />
+
+    <com.example.customfontstextviewexample.custom_textview.RalewayTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Name1"
+        android:textColor="@color/black"
+        android:textSize="30sp"
+        tools:ignore="HardcodedText" />
+
+</LinearLayout>
